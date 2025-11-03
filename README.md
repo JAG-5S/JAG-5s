@@ -45,7 +45,7 @@
 [![](https://visitcount.itsvg.in/api?id=JAG-5S&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDNjNXh4aHM0MWFsaHloMjgybjd2d3dvbmptYjdrcHdwaWFuanlvZiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/PnDRNekrgtHh5jXMna/giphy.gif" height="200" />
+
 </div>
 
 
