@@ -1,4 +1,4 @@
-<h1 align="center">JAG-5S🐧</h1>
+ <h1 align="center">JAG-5S🐧</h1>
 <p align="center">
   <em>Linux User • Web Developer in Training • Cybersecurity Enthusiast</em>
 </p>
@@ -35,7 +35,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDNjNXh4aHM0MWFsaHloMjgybjd2d3dvbmptYjdrcHdwaWFuanlvZiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/PnDRNekrgtHh5jXMna/giphy.gif" height="200" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAG-5s&show_icons=true&theme=radical)
 </div>
+![JAG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAG-5s&show_icons=true&theme=radical)
 
 ---
