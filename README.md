@@ -35,7 +35,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDNjNXh4aHM0MWFsaHloMjgybjd2d3dvbmptYjdrcHdwaWFuanlvZiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/PnDRNekrgtHh5jXMna/giphy.gif" height="200" />
-  [![JAG-5S GitHub stats](https://github-readme-stats.vercel.app/api?username=JAG-5S)]
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAG-5S)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
